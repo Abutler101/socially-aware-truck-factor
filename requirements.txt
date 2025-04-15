@@ -1,0 +1,16 @@
+GitPython==3.1.43
+PyGithub==2.5.0
+pydantic==2.10.3
+pydantic-settings==2.7.0
+pandas==2.0.3
+loguru==0.7.3
+pyyaml==6.0.2
+networkx==3.1
+docker==7.1.0
+tree-sitter-languages==1.10.2
+tree-sitter==0.21.3
+fuzzywuzzy==0.18.0
+scipy==1.10.1
+python-Levenshtein==0.25.1
+seaborn==0.13.2
+scalene==1.5.51
