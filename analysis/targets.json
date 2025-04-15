@@ -1,0 +1,108 @@
+{
+  "targets": [
+    {
+      "path": "nicolasgramlich-AndEngine.json",
+      "end_date": "2015-07-31T00:00:00Z"
+    },
+    {
+      "path": "androidannotations-androidannotations.json",
+      "end_date": "2015-08-07T00:00:00Z"
+    },
+    {
+      "path": "electron-electron.json",
+      "end_date": "2015-08-11T00:00:00Z"
+    },
+    {
+      "path": "sandstorm-io-capnproto.json",
+      "end_date": "2015-07-31T00:00:00Z"
+    },
+    {
+      "path": "celluloid-celluloid.json",
+      "end_date": "2015-08-05T00:00:00Z"
+    },
+    {
+      "path": "chef-chef.json",
+      "end_date": "2015-08-11T00:00:00Z"
+    },
+    {
+      "path": "d3-d3.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "pallets-flask.json",
+      "end_date": "2015-08-07T00:00:00Z"
+    },
+    {
+      "path": "alexreisner-geocoder.json",
+      "end_date": "2015-08-05T00:00:00Z"
+    },
+    {
+      "path": "gruntjs-grunt.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "ipython-ipython.json",
+      "end_date": "2015-08-11T00:00:00Z"
+    },
+    {
+      "path": "Leaflet-Leaflet.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "less-less.js.json",
+      "end_date": "2015-08-12T00:00:00Z"
+    },
+    {
+      "path": "mailpile-Mailpile.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "dropwizard-metrics.json",
+      "end_date": "2015-08-05T00:00:00Z"
+    },
+    {
+      "path": "netty-netty.json",
+      "end_date": "2015-08-07T00:00:00Z"
+    },
+    {
+      "path": "SFTtech-openage.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "facebook-osquery.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "thoughtbot-paperclip.json",
+      "end_date": "2015-08-07T00:00:00Z"
+    },
+    {
+      "path": "powerline-powerline.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "puphpet-puphpet.json",
+      "end_date": "2015-08-05T00:00:00Z"
+    },
+    {
+      "path": "requirejs-requirejs.json",
+      "end_date": "2015-08-05T00:00:00Z"
+    },
+    {
+      "path": "ReactiveX-RxJava.json",
+      "end_date": "2015-08-06T00:00:00Z"
+    },
+    {
+      "path": "saltstack-salt.json",
+      "end_date": "2015-08-11T00:00:00Z"
+    },
+    {
+      "path": "bjorn-tiled.json",
+      "end_date": "2015-07-31T00:00:00Z"
+    },
+    {
+      "path": "Respect-Validation.json",
+      "end_date": "2015-08-07T00:00:00Z"
+    }
+  ]
+}
