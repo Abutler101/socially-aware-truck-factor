@@ -1,5 +1,6 @@
 # Replication Package - Measuring Software Resilience Using Socially Aware Truck Factor Estimation
 ### Alexis Butler, Dan O'Keeffe, Santanu Kumar Dash
+[![DOI](https://zenodo.org/badge/966749703.svg)](https://doi.org/10.5281/zenodo.15231327)
 
 ## Contents
 - **./data_collection** → Script to collate VCS data for the target projects
